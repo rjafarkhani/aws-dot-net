@@ -1,4 +1,4 @@
-# AWS .NET Immersion Days
+# AWS/Slalom .NET Immersion Days
 
 ## DAY One.
 
@@ -25,7 +25,9 @@
     - [LAB]()
 2. AWS SDK for .NET
     - [LAB]()
+    - [Official User Guide](https://docs.aws.amazon.com/toolkit-for-visual-studio/latest/user-guide/welcome.html)
 3. ASP.NET & RDS
     - [LAB]()
 4. Lambda & API Gateway
-    - [LAB]()
+    - [LAB 1 - .NET Serverless Web Application]()
+    - [LAB 2 - .NET Serverless Image Resizing]()
