@@ -2,7 +2,7 @@
 
 ## PREREQUISITES
 1.	Day 1 & 2 Pre-requisites:
-    - Please ensure you have access to an AWS account from your organization. If you do not have access to an AWS account from your organization, please create an account by following the steps at the link https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/.
+    - Please ensure you have access to an AWS account from your organization with sufficient rights to create resources and users (IAM). If you do not have access to an AWS account from your organization, please create an account by following the steps at the link https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/.
         - NOTE: we will only be creating resources in the free tier, and if you remove the resources at the end of the class, you will not incur any charges to your personal AWS account
 
 2.	Day 2 (.NET on AWS) Pre-requisites
