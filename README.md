@@ -22,13 +22,14 @@
 
 ## DAY Two.
 
-1. DevOps & .NET
-    - [LAB]()
-2. AWS SDK for .NET
-    - [LAB]()
+1. DevOps & .NET \[[pdf](DayTwo/D2L1--LECTURE-Devops_and_.NET.pdf)\]
+    - [LAB](DayTwo/)
+2. AWS SDK for .NET \[[pdf](DayTwo/D2L2-LECTURE--SDK_and_Toolkit_Configuration.pdf)\]
+    - [LAB](DayTwo/D2L2-LAB-GUIDE--Setup_AWS_Toolkit_for_VS.pdf)
     - [Official User Guide](https://docs.aws.amazon.com/toolkit-for-visual-studio/latest/user-guide/welcome.html)
-3. ASP.NET & RDS
-    - [LAB]()
-4. Lambda & API Gateway
-    - [LAB 1 - .NET Serverless Web Application]()
-    - [LAB 2 - .NET Serverless Image Resizing]()
+3. ASP.NET & RDS \[[pdf](DayTwo/D2L3-LECTURE--ASP.NET_and_Amazon_RDS.pdf)\]
+    - [LAB](DayTwo/D2L3-LAB-GUIDE--ASP.NET_and_Amazon_RDS.pdf)
+4. Lambda & API Gateway \[[pdf](DayTwo/D2L4-LECTURE--ASP.NET_and_Lambda_API_Gateway.pdf)\]
+    - [LAB 1 - .NET Serverless Web Application](DayTwo/D2L4-LAB-1-GUIDE--ASP.NET_Core_and_Serverless.pdf)
+    - [LAB 2 - .NET Serverless Image Resizing](DayTwo/D2L4-LAB-2-GUIDE--NET_Core_Serveless_resize_image.pdf)
+        - [Cade Snippet from Page 5](DayTwo/D2L4-LAB-SCRIPT--lambda-function-handler.cs)
