@@ -1,5 +1,16 @@
 # AWS/Slalom .NET Immersion Days
 
+## PREREQUISITES
+1.	Day 1 & 2 Pre-requisites:
+    - Please ensure you have access to an AWS account from your organization (ISD, DPSS etc.). If you do not have access to an AWS account from your organization, please create an account by following the steps at the link https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/.
+        - NOTE: we will only be creating resources in the free tier and removing the resources at the end of the class so you will not incur any charges if you create your personal AWS account
+
+2.	Day 2 (.NET on AWS) Pre-requisites
+    - Please install Visual Studio 2017 or 2019 (https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2019) on your laptop. The instructor will be using Visual Studio 2019 so that is the preferred option
+    - Please download and install the AWS Toolkit for Visual Studio (https://aws.amazon.com/visualstudio/) on your laptop
+    - Please download and install the .NET Core SDK as it is needed for the ASP.Net lab (https://docs.microsoft.com/en-us/dotnet/core/install/sdk?pivots=os-windows)
+
+
 ## DAY One.
 
 1. EC2 \[[lecture](DayOne/D1L1-LECTURE--Intro_to_Cloud_and_EC2_Overview.pdf)\]
