@@ -32,7 +32,6 @@
 ## DAY Two.
 
 1. DevOps & .NET \[[lecture](DayTwo/D2L1--LECTURE-Devops_and_.NET.pdf)\]
-    - [LAB](DayTwo/)
 2. AWS SDK for .NET \[[lecture](DayTwo/D2L2-LECTURE--SDK_and_Toolkit_Configuration.pdf)\]
     - [LAB](DayTwo/D2L2-LAB-GUIDE--Setup_AWS_Toolkit_for_VS.pdf)
     - [Official User Guide](https://docs.aws.amazon.com/toolkit-for-visual-studio/latest/user-guide/welcome.html)
