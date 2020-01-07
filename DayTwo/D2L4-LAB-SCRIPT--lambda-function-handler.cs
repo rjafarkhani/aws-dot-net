@@ -26,7 +26,7 @@
                     using (var objectResponse = await S3Client.GetObjectAsync(record.S3.Bucket.Name, record.S3.Object.Key))
                     using (Stream responseStream = objectResponse.ResponseStream)
                     {
-                        using (Image<Rgba32> image = Image.Load(responseStream))
+                        using (Image<Rgba32> image = Image.Load<Rgba32>(responseStream))
                         {
                             image.Mutate(ctx => ctx.Resize(image.Width / 4, image.Height / 4));
                             image.Save(imageStream, new JpegEncoder());
