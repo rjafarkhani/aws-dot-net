@@ -38,6 +38,8 @@
     - [Official User Guide](https://docs.aws.amazon.com/toolkit-for-visual-studio/latest/user-guide/welcome.html)
 3. ASP.NET & RDS \[[lecture](DayTwo/D2L3-LECTURE--ASP.NET_and_Amazon_RDS.pdf)\]
     - [LAB](DayTwo/D2L3-LAB-GUIDE--ASP.NET_and_Amazon_RDS.pdf)
+    - Lab deviations:
+        - Security group for VPC requires ingress allow for MS SQL Server (port 1433)
 4. Lambda & API Gateway \[[lecture](DayTwo/D2L4-LECTURE--ASP.NET_and_Lambda_API_Gateway.pdf)\]
     - [LAB 1 - .NET Serverless Web Application](DayTwo/D2L4-LAB-1-GUIDE--ASP.NET_Core_and_Serverless.pdf)
     - [LAB 2 - .NET Serverless Image Resizing](DayTwo/D2L4-LAB-2-GUIDE--NET_Core_Serveless_resize_image.pdf)
