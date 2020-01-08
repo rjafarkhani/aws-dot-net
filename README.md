@@ -21,6 +21,10 @@
 3. Storage \[[lecture](DayOne/D1L3-LECTURE--Storage_on_AWS.pdf)\]
     - [LAB](DayOne/D1L3-LAB-GUIDE--S3_HOL.pdf)
 4. IaC \[[lecture](DayOne/D1L4-LECTURE--DevOps_CloudFormation_Intro.pdf)\]
+
+## DAY Two.
+
+1. DevOps & .NET \[[lecture](DayTwo/D2L1--LECTURE-Devops_and_.NET.pdf)\]
     - Create VPC 
       - [Preview CloudFormation](DayOne/D1L4-LAB-SCRIPT-1--vpc-public-private-immersionday.json)
       - [Preview Network Diagram](DayOne/D1L4-LAB-DIAGRAM--vpc-multiaz-reference.png)
@@ -29,9 +33,6 @@
       - [Preview CloudFormation](DayOne/D1L4-LAB-SCRIPT-2--wordpress-multiaz-immersionday.json)
       - NOTE: When providing the input parameters for this template, use the VPC you created in the previous step. Your public subnets should be used for the Load Balancer, while the private subnets should be used for your database and web servers.
 
-## DAY Two.
-
-1. DevOps & .NET \[[lecture](DayTwo/D2L1--LECTURE-Devops_and_.NET.pdf)\]
 2. AWS SDK for .NET \[[lecture](DayTwo/D2L2-LECTURE--SDK_and_Toolkit_Configuration.pdf)\]
     - [LAB](DayTwo/D2L2-LAB-GUIDE--Setup_AWS_Toolkit_for_VS.pdf)
     - [Official User Guide](https://docs.aws.amazon.com/toolkit-for-visual-studio/latest/user-guide/welcome.html)
